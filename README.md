@@ -1,4 +1,4 @@
-# SOMADINA NWOKORA
+# 🎯 SOMADINA NWOKORA - ANALYTICS PROJECT HUB
 ------------------
 
 ## 📖 ABOUT
