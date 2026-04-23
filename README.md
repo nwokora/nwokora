@@ -1,5 +1,5 @@
 # SOMADINA NWOKORA
-------------------
+-
 
 ## 📖 ABOUT
 Welcome to my data analytics portfolio!
