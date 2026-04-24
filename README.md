@@ -26,9 +26,9 @@ Below are my key data analytics projects. Each project includes a brief summary 
 
 ---------------------------
 
-1. Coca Cola Stock Analysis (1962-2022)
+**1. Coca Cola Stock Analysis (1962-2022)**
 
-[🔗 View Project Repository](https://github.com/nwokora/1962-to-2022-ko-stock-analysis)
+[View Project Repository](https://github.com/nwokora/1962-to-2022-ko-stock-analysis)
 
 - Brief Description:
 An analysis of antibiotic resistance patterns in Europe, focusing on gender, age groups, and antibiotic types.
