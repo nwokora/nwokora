@@ -30,15 +30,15 @@ Below are my key data analytics projects. Each project includes a brief summary 
 
 [🔗 View Project Repository](https://github.com/nwokora/1962-to-2022-ko-stock-analysis)
 
-Brief Description:
+- Brief Description:
 An analysis of antibiotic resistance patterns in Europe, focusing on gender, age groups, and antibiotic types.
 
-Tools & Skills Used:
+- Tools & Skills Used:
 Google Sheets, Data Cleaning, Data Visualization, Pivot Tables, Data Storytelling, GitHub Documentation.
 
-Project Goals:
+- Project Goals:
 To explore antibiotic resistance trends across different demographics and provide actionable insights for public health monitoring.
 
-Results:
+- Results:
 Discovered that antibiotic resistance is generally higher in males and adults aged 19-64, with aminopenicillins showing the highest resistance rates across most regions.
 
