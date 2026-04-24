@@ -26,8 +26,9 @@ Below are my key data analytics projects. Each project includes a brief summary 
 
 ---------------------------
 
-1. Antibiotic Resistance Threat Analysis  
-🔗 View Project Repository(https://github.com/nwokora/1962-to-2022-ko-stock-analysis)
+1. Antibiotic Resistance Threat Analysis
+
+[🔗 View Project Repository](https://github.com/nwokora/1962-to-2022-ko-stock-analysis)
 
 Brief Description:
 An analysis of antibiotic resistance patterns in Europe, focusing on gender, age groups, and antibiotic types.
