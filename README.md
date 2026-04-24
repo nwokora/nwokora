@@ -2,16 +2,15 @@
 ------------------
 
 ## 👋 About Me
-Hi! My name is Somadina Nwokora, and I am a data analyst with skill specialization in Excel, SQL, Power BI, and Python. I turn raw data into actionable insights for business growth.
+Hi! I'm Somadina Nwokora, a data analyst skilled in Excel, SQL, Power BI, and Python. I turn messy data into clear insights, sharp visuals, and stories that help businesses grow.
 
-This space highlights my key projects that showcased hands-on skills in data modelling, database querying, vizualition, and critical thinking.  and professional certifications while I grow as a data analyst. I love transforming complex and noisy data into clear insights, dynamic visuals, and compelling narratives that drive business decisions.
+This space shows my key projects with hands-on work in data cleaning, analysis, SQL queries, modelling, and visualization.
 
 --------------------
 
-📊 PORTFOLIO PROJECTS
-Below are my key data analytics projects. Each project includes a brief summary of the tools, skills used, project goals, and results achieved.
+## 📊 PORTFOLIO PROJECTS
 
-Discover my standout data analytics work below. Each entry details the tools and skills applied, core objectives, and key outcomes delivered.
+Below are my core data analytics projects, with a breakdown of analysis description, tools used, skills applied, project objectives, and measurable results.
 
 ---------------------------
 
