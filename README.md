@@ -26,7 +26,7 @@ Below are my key data analytics projects. Each project includes a brief summary 
 
 ---------------------------
 
-1. Antibiotic Resistance Threat Analysis
+1. Coca Cola Stock Analysis (1962-2022)
 
 [🔗 View Project Repository](https://github.com/nwokora/1962-to-2022-ko-stock-analysis)
 
