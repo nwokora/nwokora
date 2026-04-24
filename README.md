@@ -20,3 +20,24 @@ My portfolio features real-world projects from antibiotic resistance trends to r
 Passionate about financial modelling, healthcare analytics, and global datasets. Let's connect on data-driven impact!
 
 --------------------
+
+📊 PORTFOLIO PROJECTS
+Below are my key data analytics projects. Each project includes a brief summary of the tools, skills used, project goals, and results achieved.
+
+---------------------------
+
+1. Antibiotic Resistance Threat Analysis
+🔗 View Project Repository
+
+Brief Description:
+An analysis of antibiotic resistance patterns in Europe, focusing on gender, age groups, and antibiotic types.
+
+Tools & Skills Used:
+Google Sheets, Data Cleaning, Data Visualization, Pivot Tables, Data Storytelling, GitHub Documentation.
+
+Project Goals:
+To explore antibiotic resistance trends across different demographics and provide actionable insights for public health monitoring.
+
+Results:
+Discovered that antibiotic resistance is generally higher in males and adults aged 19-64, with aminopenicillins showing the highest resistance rates across most regions.
+
