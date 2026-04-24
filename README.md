@@ -42,3 +42,23 @@ To explore antibiotic resistance trends across different demographics and provid
 - Results:
 Discovered that antibiotic resistance is generally higher in males and adults aged 19-64, with aminopenicillins showing the highest resistance rates across most regions.
 
+-------------------------------
+
+2. Antibiotic Resistance Threat Analysis
+
+[🔗 View Project Repository](https://github.com/nwokora/2004-to-2025-google-stock-analysis)
+
+- Brief Description:
+An analysis of antibiotic resistance patterns in Europe, focusing on gender, age groups, and antibiotic types.
+
+- Tools & Skills Used:
+Google Sheets, Data Cleaning, Data Visualization, Pivot Tables, Data Storytelling, GitHub Documentation.
+
+- Project Goals:
+To explore antibiotic resistance trends across different demographics and provide actionable insights for public health monitoring.
+
+- Results:
+Discovered that antibiotic resistance is generally higher in males and adults aged 19-64, with aminopenicillins showing the highest resistance rates across most regions.
+
+--------------------------------
+
