@@ -16,7 +16,7 @@ Below are my core data analytics projects, with a breakdown of analysis descript
 
 **1. Coca Cola Stock Analysis (1962-2022)**
 
-[View Project Repository](https://github.com/nwokora/1962-to-2022-ko-stock-analysis)
+[🔗 View Project Repository](https://github.com/nwokora/1962-to-2022-ko-stock-analysis)
 
 - **Brief Description:**  
 Analysis of Coca-Cola stock (KO) growth pattern, volatility, and win rate for 60 years (1962 to 2022).
