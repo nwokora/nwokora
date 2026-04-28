@@ -27,7 +27,7 @@ Excel Sheet, Power Query Data Cleaning, Power BI Data Analysis and Data Visualiz
 Analyze KO's growth trajectory to evaluate its long-term value and short-term trading opportunities.
 
 - **Results:**
-KO traded 140 billion shares over 60 years (15K days), closing higher 48% of the time with 1.74% avg daily volatility. Closing prices climbed from 0.04 (1962) to 60.86 (2022).
+KO traded 140 billion shares over 60 years (15K trading days), closing higher 48% of the time, with an average daily volatility of 1.74%. Closing prices climbed from 0.04 (1962) to 60.86 (2022).
 
 -------------------------------
 
@@ -45,7 +45,7 @@ Excel Sheet, Pandas Data Cleaning and Analysis, Matplotlib Data Visualization, D
 To explore the growth pattern of GOOG and understand the strategic long-term and short-term investment potentials of the stock.
 
 - **Results:**
-GOOG traded 584 billion across 5,478 days (21 years), closing higher than open 50.8% of the time. Annual closes surged from 3.85 (2004) to 177.86 (2025).
+GOOG traded 584 billion in 21 years (5k trading days), closing higher 50.8% of the time. Annual closes surged from 3.85 (2004) to 177.86 (2025).
 
 --------------------------------
 
