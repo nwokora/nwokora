@@ -19,28 +19,27 @@ Below are my core data analytics projects, with a breakdown of analysis descript
 
 - **Brief Description:**  
 This analysis compares fuel prices across 84 countries and seven regions, evaluating metrics such as income, subsidies, and tax rates to assess fuel affordability.
-- **Tools & Skills:**  
-Excel (Data validation), Python (Data and Table aggregation), and Power BI (Analysis and Visualization).
 
 - **Project Goals:**  
 To assess how fuel prices, tax percentages, subsidy support, and income levels shape fuel affordability across different continental regions and countries from 2020 to 2026, and to highlight the regions and countries most affected by affordability pressure.
 
-- **Results:**
-Fuel affordability is shaped by the impact of prices, taxes, subsidies, and income levels, with the greatest strain falling on specific regions like Oceania and Europe, although cushioning the hardship with high income levels, while African countries also feel the brunt, especially with their dominant low-income class earners. the Middle East benefits most in all of this.
+- **Tools & Skills:**  
+Excel (Dataset validation), Python (Data cleaning, Preparation, and Table aggregation), and Power BI (Analysis and Visualization).
 
-Fuel affordability depends on prices, taxes, subsidies, and income. Regions such as Oceania and Europe face the largest price pressure but are partially offset by higher incomes. African countries also experience severe affordability challenges, driven by large low‑income populations. The Middle East sees the most favorable conditions overall.
+- **Results:**
+Fuel affordability is shaped by the combined impact of prices, taxes, subsidies, and income levels. The greatest strain falls on regions like Oceania and Europe, though higher incomes there cushion the hardship. African countries also bear significant pressure, especially given their large low‑income populations. The Middle East benefits most overall.
 
 -------------------------------
 
-**2. Google Stock Analysis (2004 to 2025)**
+**2. Google (GOOG) Stock Performance Analysis (2004-2022)**
 
-[🔗 View Project Repository](https://github.com/nwokora/2004-to-2025-google-stock-analysis)
+[🔗 View Project Repository](https://github.com/nwokora/goog_stock_performance_analysis_2004-2025)
 
 - **Brief Description:**
-21-year analysis (2004–2025) of GOOG's growth patterns, volatility, and win rate (favourable close %).
+Analysis of 21-year growth (2004–2025) of GOOG's growth patterns, volatility, and win rate (favourable close %).
 
 - **Tools & Skills Used:**
-Excel Sheet, Pandas Data Cleaning and Analysis, Matplotlib Data Visualization, Data Storytelling, GitHub Documentation.
+Excel (Dataset validation), Python (Data cleaning, Analysis, and Matplotlib visualization).
 
 - **Project Goals:**
 To explore the growth pattern of GOOG and understand the strategic long-term and short-term investment potentials of the stock.
@@ -58,11 +57,11 @@ GOOG traded 584 billion in 21 years (5k trading days), closing higher 50.8% of t
 - **Brief Description:**  
 Analysis of Coca-Cola stock (KO) growth pattern, volatility, and win rate for 60 years (1962 to 2022).
 
+- **Project Goals:**  
+To analyze KO’s historical market performance from 1962 to 2022 by examining trading volume, average closing price, trading consistency, and volatility patterns to understand its short-term and long-term value creation, liquidity, and stability.
+
 - **Tools & Skills Used:**  
 Excel Sheet, Power Query Data Cleaning, Power BI Data Analysis and Data Visualization, Data Storytelling, GitHub Documentation.
-
-- **Project Goals:**  
-Analyze KO's growth trajectory to evaluate its long-term value and short-term trading opportunities.
 
 - **Results:**
 KO traded 140 billion shares over 60 years (15K trading days), closing higher 48% of the time, with an average daily volatility of 1.74%. Closing prices climbed from 0.04 (1962) to 60.86 (2022).
