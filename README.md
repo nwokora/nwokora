@@ -27,7 +27,7 @@ To assess how fuel prices, tax percentages, subsidy support, and income levels s
 Excel (Dataset validation), Python (Data cleaning, Preparation, and Table aggregation), and Power BI (Analysis and Visualization).
 
 - **Results:**
-Fuel affordability is shaped by the combined impact of prices, taxes, subsidies, and income levels. The greatest strain falls on regions like Oceania and Europe, though higher incomes there cushion the hardship. African countries also bear significant pressure, especially given their large low‑income populations. The Middle East benefits most overall.
+From the analysis, fuel affordability is shaped by prices, taxes, subsidies, and income levels. The greatest strain falls on regions like Oceania and Europe, though higher incomes there cushion the hardship. African countries also bear significant pressure, especially given their large low‑income populations. The Middle East benefits most overall.
 
 -------------------------------
 
