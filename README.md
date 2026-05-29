@@ -43,7 +43,7 @@ This analysis covers GOOG’s price behaviour over 21 years (2004–2025), summa
 - **Project Goals:**
 To explore GOOG’s growth, analyze its growth indices to assess both long-term strategic potential and short-term trading opportunities.
 
-- **Tools & Skills Used:**
+- **Tools & Skills Used:**  
 Excel (Dataset validation)  
 Python (Data cleaning, Analysis, and Matplotlib visualization).
 
@@ -64,7 +64,7 @@ This analysis of Coca-Cola stock (KO) examines the growth pattern, volatility, a
 To analyze KO’s historical market performance from 1962 to 2022 by examining trading volume, average closing price, trading consistency, and volatility patterns to understand its short-term and long-term value creation, liquidity, and stability.
 
 - **Tools & Skills Used:**  
-Excel (Dataset validation)
+Excel (Dataset validation)  
 Power Query Data Cleaning  
 Power BI Data Analysis and Visualization.
 
