@@ -44,7 +44,8 @@ This analysis covers GOOG’s price behaviour over 21 years (2004–2025), summa
 To explore GOOG’s growth, analyze its growth indices to assess both long-term strategic potential and short-term trading opportunities.
 
 - **Tools & Skills Used:**
-Excel (Dataset validation), Python (Data cleaning, Analysis, and Matplotlib visualization).
+Excel (Dataset validation)  
+Python (Data cleaning, Analysis, and Matplotlib visualization).
 
 - **Results:**
 GOOG traded 584 billion in 21 years (5k trading days), closing higher 50.8% of the time. Annual closes surged from 3.85 (2004) to 177.86 (2025).
@@ -63,7 +64,9 @@ This analysis of Coca-Cola stock (KO) examines the growth pattern, volatility, a
 To analyze KO’s historical market performance from 1962 to 2022 by examining trading volume, average closing price, trading consistency, and volatility patterns to understand its short-term and long-term value creation, liquidity, and stability.
 
 - **Tools & Skills Used:**  
-Excel (Dataset validation), Power Query Data Cleaning, Power BI Data Analysis and Visualization.
+Excel (Dataset validation)
+Power Query Data Cleaning  
+Power BI Data Analysis and Visualization.
 
 - **Results:**
 KO traded about 140 billion shares over 60 years (~15,000 trading days), closing higher than it opened on 48% of those days, with an average daily volatility of 1.74%. Closing prices rose from 0.04 in 1962 to 60.86 in 2022. Overall, price and volume trends indicate sustained growth and broad global acceptance of KO’s beverage products.
