@@ -74,7 +74,6 @@ KO traded about 140 billion shares over 60 years (~15,000 trading days), closing
 
 ## ✉️ Contact
 - [LinkedIn](https://www.linkedin.com/in/somadina-nwokora)  
-- [Email](somadina.nwokora@gmail.com)
 
 -------------------------------
 
