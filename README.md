@@ -8,7 +8,6 @@ This space showcases my key projects, with hands-on work in data cleaning, analy
 --------------------
 
 ## 📊 PORTFOLIO PROJECTS
-
 Below are my core data analytics projects, with a breakdown of analysis description, tools used, skills applied, project objectives, and measurable results.
 
 ---------------------------
@@ -58,7 +57,7 @@ GOOG grew from 3.85 in 2004 to 177.86 in 2025, representing a roughly 4,520% gai
 [🔗 View Project Repository](https://github.com/nwokora/ko_stock_performance_analysis_1962-2022)
 
 - **Brief Description:**  
-This analysis of Coca-Cola stock (KO) examines the growth pattern, volatility, and win rate that saw the stock's successful value gain for 60 years (1962 to 2022).
+This analysis of Coca-Cola stock (KO) examines the growth pattern, volatility, and win rate that drove the stock's successful value gains over 60 years (1962 to 2022).
 
 - **Project Goals:**  
 To analyze KO’s historical market performance from 1962 to 2022 by examining trading volume, average closing price, trading consistency, and volatility patterns to understand its short-term and long-term value creation, liquidity, and stability.
@@ -72,4 +71,11 @@ To analyze KO’s historical market performance from 1962 to 2022 by examining t
 KO traded about 140 billion shares over 60 years (~15,000 trading days), closing higher than it opened on 48% of those days, with an average daily volatility of 1.74%. Closing prices rose from 0.04 in 1962 to 60.86 in 2022. Overall, price and volume trends indicate sustained growth and broad global acceptance of KO’s beverage products.
 
 -------------------------------
+
+## ✉️ Contact
+[LinkedIn](https://www.linkedin.com/in/somadina-nwokora)
+[Email](somadina.nwokora@gmail.com)
+
+-------------------------------
+
 
