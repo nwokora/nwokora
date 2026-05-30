@@ -48,7 +48,7 @@ To explore GOOG’s growth, analyze its growth indices to assess both long-term 
   -  Python (Data cleaning, Analysis, and Matplotlib visualization).
 
 - **Results:**
-Over the 21 years from 2004 to 2025, GOOG showed exceptional share performance, with its average closing price increasing from 3.85 to 177.86, representing roughly 4,520% total growth across 584 billion traded shares. Despite the 2008 and 2022 market downturns, it remained resilient, closing above its opening price on 50.8% of 5,478 trading days with moderate daily volatility of 1.93%. Its ability to recover and keep sustaining upward momentum supports its appeal as a long-term investment.
+GOOG grew from 3.85 in 2004 to 177.86 in 2025, representing a roughly 4,520% gain across 584 billion traded shares. It stayed resilient, closing above its opening price on 50.8% of 5,478 trading days, while daily volatility remained moderate at 1.95% despite the 2008 financial and 2022 post-COVID shocks.
 
 --------------------------------
 
