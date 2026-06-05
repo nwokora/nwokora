@@ -52,7 +52,7 @@ GOOG grew from 3.85 in 2004 to 177.86 in 2025, representing a roughly 4,520% gai
 --------------------------------
 
 
-**3. Coca Cola (KO) Stock Analysis (1962-2022)**
+**3. Coca Cola (KO) Stock Performance Analysis (1962-2022)**
 
 [🔗 View Project Repository](https://github.com/nwokora/ko_stock_performance_analysis_1962-2022)
 
