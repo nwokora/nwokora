@@ -12,7 +12,27 @@ Below are my core data analytics projects, with a breakdown of analysis descript
 
 ---------------------------
 
-**1. Global Fuel Affordability Analysis (2020-2026)**
+**1. Retail Sales and Profit Analysis**
+
+[🔗 View Project Repository](https://github.com/nwokora/retail_sales_and_profit_analysis)
+
+- **Brief Description:**  
+This analysis examines retail sales, customer behaviour, product profitability, regional and channel trends, identifying profitability drivers, loss-making transactions, discount effects, and practical recommendations for growth.
+
+- **Project Goals:**  
+To evaluate sales performance, product profitability, customer behaviour, and regional and channel trends, identifying revenue and profit drivers, discount effects, and opportunities to improve pricing, retention, and growth sustainably.
+
+- **Tools & Skills:**  
+  -  Excel (Dataset validation)  
+  -  Excel (Data cleaning and Preparation)  
+  -  Excel (Analysis and Visualization).
+
+- **Results:**
+The business generated $294,348 in sales and $99,064 in profit, with Clothing performing best partly because it offered the highest product range. However, heavy discounting pressured margins, and results varied by month, product, discount level, and region. With more than 60% of customers making only one purchase, improving customer retention should be a key priority.
+
+---------------------------
+
+**2. Global Fuel Affordability Analysis (2020-2026)**
 
 [🔗 View Project Repository](https://github.com/nwokora/global_fuel_affordability_analysis_2020-2026)
 
@@ -32,7 +52,7 @@ From the analysis, fuel affordability is shaped by prices, taxes, subsidies, and
 
 -------------------------------
 
-**2. Google (GOOG) Stock Performance Analysis (2004-2022)**
+**3. Google (GOOG) Stock Performance Analysis (2004-2022)**
 
 [🔗 View Project Repository](https://github.com/nwokora/goog_stock_performance_analysis_2004-2025)
 
@@ -52,7 +72,7 @@ GOOG grew from 3.85 in 2004 to 177.86 in 2025, representing a roughly 4,520% gai
 --------------------------------
 
 
-**3. Coca Cola (KO) Stock Performance Analysis (1962-2022)**
+**4. Coca Cola (KO) Stock Performance Analysis (1962-2022)**
 
 [🔗 View Project Repository](https://github.com/nwokora/ko_stock_performance_analysis_1962-2022)
 
